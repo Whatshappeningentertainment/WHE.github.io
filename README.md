@@ -1,4 +1,4 @@
-# -Whatshappeningentertainment.github.io
+# Whatshappeningentertainment.github.io
  
 
 - Entertainment Website
