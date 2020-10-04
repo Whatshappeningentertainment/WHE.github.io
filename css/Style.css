@@ -186,7 +186,7 @@ p{
 main .site-title{
     background: url('../assets/img.png');
     background-size: cover;
-    height: 100vh;
+    height: 80%;
     display: flex;
     justify-content: center;
 }
