@@ -189,6 +189,7 @@ main .site-title{
     height: 800px;
     display: flex;
     justify-content: center;
+    clip-path: polygon(0% 0%, 100% 0%, 100% 80%,0);
 }
 
 main .site-title .site-background{
